@@ -9,7 +9,7 @@
 <table align="center">
   <tr>
     <td>Название</td>
-    <td>Oracle Java SE 11</td>
+    <td>Oracle Java SE Development Kit 11</td>
     <td>libGDX</td>
     <td>JetBrains IntelliJ IDEA Community Edition </td>
   </tr>
