@@ -13,37 +13,24 @@
 Таблица 1 - Используемое в разработке стороннее ПО
 <table>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Название</td>
+    <td>Oracle Java SE 11</td>
+    <td>libGDX</td>
+    <td>JetBrains IntelliJ IDEA Community Edition </td>
   </tr>
     <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Мнемоника</td>
+    <td>Java</td>
+    <td>libGDX</td>
+    <td>IntelliJ IDEA</td>
   </tr>
     <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Версия</td>
+    <td>11.0.5</td>
+    <td>1.9.10</td>
+    <td>2019.3.5+</td>
   </tr>
 </table>
-Название
-Oracle Java SE 11
-libGDX
-JetBrains IntelliJ IDEA Community Edition 
-Мнемоника
-Java
-libGDX
-IntelliJ IDEA
-Версия
-11.0.5
-1.9.10
-2019.3.5+
-
 <h3>2.2 Интерфейс пользователя</h3>
 <p align = "justify">Создаваемый программный продукт будет иметь классический графический пользовательский интерфейс. При запуске пользователю предоставлено меню, в котором он сможет ввести свой Никнейм, а также данные для локального соединения с другим игроком, а также пункт “Настройки”. Меню будет оформлено в соответствии с тематикой игры. На рисунке 1 представлен набросок меню.
 <img src="images/image_1.png" alt="Меню игры">
