@@ -62,9 +62,11 @@
  <li><p align = "justify">SocketCommunication – отвечает за сетевое взаимодействие;</p></li>
  <li><p align = "justify">MainWindow – отвечает за главное меню;</p></li>
  <li><p align = "justify">SettingsWindow – отвечает за меню настроек;</p></li>
-  <li><p align = "justify">SessionConfigurationWindow – отвечает за окно создания игрового сеанса;</p></li>
+ <li><p align = "justify">SessionConfigurationWindow – отвечает за окно создания игрового сеанса;</p></li>
  <li><p align = "justify">GameResultsWindow – отвечает за окно, отображающее результаты игрового сеанса;</p></li>
  <li><p align = "justify">MessageWindow – отвечает за различные уведомления (такие как пауза, прерывание игры);</p></li>
+ <li><p align = "justify">XonixGame – основной игровой класс;</p></li>
+ <li><p align = "justify">DesktopLauncher – класс, отвечающий за запуск приложения на десктопе;</p></li>
  <li><p align = "justify">GameWindow – отвечает за игровое поле.</p></li>
 </ul>
 <h3>3.4 Диаграмма последовательности</h3>
