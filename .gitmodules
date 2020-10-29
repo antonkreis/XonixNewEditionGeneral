@@ -1,0 +1,3 @@
+[submodule "code/XonixNewEdition"]
+	path = code/XonixNewEdition
+	url = https://github.com/antonkreis850503/XonixNewEdition.git
