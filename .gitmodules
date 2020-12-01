@@ -1,3 +1,4 @@
 [submodule "code/XonixNewEdition"]
 	path = code/XonixNewEdition
 	url = https://github.com/antonkreis850503/XonixNewEdition.git
+	branch = multiplayer_xonix_on_the_local_computer
